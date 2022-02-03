@@ -96,6 +96,7 @@ a {
   transition: background-color .3s ease-in-out, color .3s ease-in-out, border .3s ease-in-out, box-shadow .3s ease-in-out, -webkit-box-shadow .3s ease-in-out !important;
   border: 2px solid transparent;
   line-height: 1.5;
+  text-align: center;
 }
 
 .button:hover {
